@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Normalize
+  m_Shader: {fileID: 4800000, guid: a77262f61af422c4ab9ab8c1bc3ded4b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _N_LonguevalBrick:
+        m_Texture: {fileID: 2800000, guid: 5528b4ce9005e2d479aef652e627aa69, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sampler:
+        m_Texture: {fileID: 2800000, guid: 67730d41e62a48a4fb03ceab8d587f04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Experimental: 6
+    - _Float0: 0
+    - _MagicNumber: 451.99
+    - _NormalScale: 0.1
+    - _OpenGL: -1
+    - _Scale: 0.05
+    m_Colors: []
+  m_BuildTextureStacks: []

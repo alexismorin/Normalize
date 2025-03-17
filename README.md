@@ -33,7 +33,7 @@ The normal generation shader inside Normalize is tweaked to give the most Dynami
 
 #### Output Green Channel Direction
 Defaults to DirectX-style green channel, used for Unreal & Unity HDRP.
-- *opengl*: OpenGL-style green channel, used in the Unity Built-In RP.
+- *-opengl*: OpenGL-style green channel, used in the Unity Built-In RP.
 
 #### Output Texture Size 
 Defaults to the native heightmap size.
