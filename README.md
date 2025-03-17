@@ -16,9 +16,10 @@ You drag your heightmap png/jpeg onto the Normalize executable... and that's it.
 
 To keep in line with the "I know what I want and I want it as soon as possible" ethos, customizing Normalize to output normal maps that fit your project is incredibly straightforward:
 
-- Download and unzip the executable from the releases page. Stick it anywhere.
+- Download and unzip the executable from the releases page.
 - Create a shortcut to the Normalize executable somewhere.
 - Customize the "Start In" path of your shortcut to *where you want the Normal Maps to be saved upon generation*. This can be the same location as the shortcut, the executable, your Assets folder - whatever.
+- **Add "*-batchmode*" to the shortcut "Target" field. This allows you to skip the Unity splash screen and run Normalize headless."**
 - Add the appropriate launch parameters you want in the "Target" field.
 - That's it! Now when you drag an image onto the shortcut it'll do your bidding based on what you ordered.
 
