@@ -14,7 +14,7 @@ You drag your heightmap png/jpeg onto the Normalize executable... and that's it.
 
 ## Customization
 
-To keep in line with the "I know what I want and I want it as soon as possible ethos", customizing Normalize to output normal maps that fit your project is incredibly straightforward:
+To keep in line with the "I know what I want and I want it as soon as possible" ethos, customizing Normalize to output normal maps that fit your project is incredibly straightforward:
 
 - Create a shortcut to the Normalize executable somewhere.
 - Customize the "Start In" path of your shortcut to *where you want the Normal Maps to be saved upon generation*. This can be the same location as the shortcut, the executable, your Assets folder - whatever.
