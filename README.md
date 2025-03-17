@@ -6,9 +6,9 @@
 
 For projects personal and professional alike, I bake a lot of normal maps from heightmaps. I can usually visualize height values pretty clearly in my head and so for most things that would usually deserve a real bake based on 3D geometry I just duke it out in handmade textures. This is much easier than going the full 3D loop and gives crisp results, but it's usually a little tedious; Most available options, software or web-based, assume you want to bake a million map types, never seem to remember what your settings are and generally have the thing you want behind way too many clicks. Let's not do that! 
 
-![gif ](images/gif.gif)
-
 ## Usage
+
+![gif ](images/gif.gif)
 
 You drag your heightmap png/jpeg onto the Normalize executable... and that's it. It spits out the Normal Map in the same folder after a second or two. You're done! Isn't that nice? Now you can spend your time clicking on more relevant stuff.
 
